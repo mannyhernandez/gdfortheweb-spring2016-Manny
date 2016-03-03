@@ -1,0 +1,19 @@
+<br><br><br><br><br><br><br><br>
+<h1>S H A R E _ A _ T H O U G H T _ W I T H _ T H E _ W O R L D</h1>
+<br><br><br>
+<br><br><br>
+<h2>Everyday, one thought will be selected and displayed on 
+MoMa's <br>jumbotron. When displayed, it will be viewed by all of MoMa's visitors. 
+<br>
+Write your thought in the comment box below and become a part of Modern Art.  </h2>
+<br><br><br><br>
+<form action="file:///Users/ciaranrasch/Documents/GD%20for%20the%20Web/workshop1/Thank%20you%20for%20submitting%20your%20thought"> 
+<div>
+<textarea name="comments" id="comments">
+Share a thought
+</textarea>
+</div>
+<br>
+<a href=""</a>
+<input type="submit" value="Submit">
+</form>
